@@ -10,3 +10,5 @@ This is a game about lying:
 - The guesser tries to, well, guess who told the truth.
 
 I couldn't fix some issues with the code and I don't have the time to make it a window application so feel free to fix what I've made.
+
+(Also the code is in Turkish. Sorry :D)
